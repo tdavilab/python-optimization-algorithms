@@ -1,6 +1,5 @@
 '''
 ANT COLONY OPTIMIZATION
-PROGRAMA COLONIA DE HORMIGAS
 Hecho por Thomas Daniel Avila Blenkey - 20151020012
 Para la clase de cibernética cualitativa III
 Universidad Distrital - Facultad de Ingeniería
